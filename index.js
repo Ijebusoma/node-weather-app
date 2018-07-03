@@ -1,5 +1,4 @@
-/**command line node application to get weather report**/
-let apiKey = 'db1*************';
+let apiKey = 'db11d968bb763673926197fbe0384e42';
 let city = 'London,UK';
 let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`
 
