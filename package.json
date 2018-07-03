@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ijebusoma/node-weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ijebusoma/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/Ijebusoma/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
